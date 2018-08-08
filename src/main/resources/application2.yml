@@ -1,0 +1,8 @@
+my:
+  name: zhangsan
+  age: 20
+
+
+spring:
+  profiles:
+    active: dev
